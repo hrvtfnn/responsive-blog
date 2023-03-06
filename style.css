@@ -92,13 +92,21 @@ h2{
     color: #8c8e9b;
 }
 
-.picture{
-    width: 100%;
-}
-
 /* ==== LAYOUT STYLES ==== */
 
+/*main header styles*/
 .main-header {
 	text-align: center;
 	padding: 1.25rem;
+}
+
+/*article styles*/
+.post{
+    width: 95%;
+    margin: 1.25rem auto;
+    padding: 0.3125rem;
+}
+
+.picture{
+    width: 100%;
 }
